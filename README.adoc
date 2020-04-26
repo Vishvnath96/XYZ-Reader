@@ -1,0 +1,9 @@
+= XYZ Reader Starter Code
+
+This repository stores the starter code for the XYZ Reader project in which user can read stories in good ui with sharing capabilities.
+
+
+<img width="270" alt="main" src="https://user-images.githubusercontent.com/33184243/76689241-e3e85c80-6659-11ea-8cdd-387c47a081a5.png">
+
+<img width="265" alt="detail" src="https://user-images.githubusercontent.com/33184243/76689275-4b061100-665a-11ea-9e8d-815d2b25ba5c.png">
+

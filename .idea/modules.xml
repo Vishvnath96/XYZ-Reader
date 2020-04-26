@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project-XYZ-Reader-master.iml" filepath="$PROJECT_DIR$/Project-XYZ-Reader-master.iml" group="XYZ-Reader-master" />
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/Project-XYZ-Reader-master-XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/Project-XYZ-Reader-master-XYZReader.iml" group="XYZ-Reader-master/XYZReader" />
+      <module fileurl="file://$PROJECT_DIR$/Starter Code - Pure.iml" filepath="$PROJECT_DIR$/Starter Code - Pure.iml" group="Starter Code - Pure" />
+      <module fileurl="file://$PROJECT_DIR$/XYZ-Reader-master.iml" filepath="$PROJECT_DIR$/XYZ-Reader-master.iml" group="XYZ-Reader-master" />
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZ-Reader-master-XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZ-Reader-master-XYZReader.iml" group="XYZ-Reader-master/XYZReader" />
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" group="Starter Code - Pure/XYZReader" />
+    </modules>
+  </component>
+</project>
