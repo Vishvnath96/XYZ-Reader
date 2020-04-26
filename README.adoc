@@ -7,8 +7,9 @@
 
 <img width="265" alt="detail" src="https://user-images.githubusercontent.com/33184243/76689275-4b061100-665a-11ea-9e8d-815d2b25ba5c.png">
 
-<img width="295" alt="Screenshot 2020-04-26 at 1 25 48 PM" src="https://user-images.githubusercontent.com/33184243/80301382-76cff700-87c1-11ea-84f4-e2d33cb93191.png">
-<img width="294" alt="Screenshot 2020-04-26 at 1 25 33 PM" src="https://user-images.githubusercontent.com/33184243/80301387-7b94ab00-87c1-11ea-8621-b3a1a06f43ec.png">
-<img width="295" alt="Screenshot 2020-04-26 at 1 25 10 PM" src="https://user-images.githubusercontent.com/33184243/80301390-7d5e6e80-87c1-11ea-8562-1ac245627f23.png">
+<img width="295" alt="homemain" src="https://user-images.githubusercontent.com/33184243/80301437-bd255600-87c1-11ea-94bc-9bbdfffeed91.png">
+<img width="294" alt="Screenshot 2020-04-26 at 1 25 33 PM" src="https://user-images.githubusercontent.com/33184243/80301443-c282a080-87c1-11ea-8878-1d90cecb6799.png">
+<img width="295" alt="home" src="https://user-images.githubusercontent.com/33184243/80301444-c3b3cd80-87c1-11ea-9f3b-c526de526282.png">
+
 
 
